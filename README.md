@@ -1,2 +1,2 @@
 # laravel-project
-This is a laravel course 
+This is a laravel course  
